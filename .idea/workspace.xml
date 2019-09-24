@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/other/testGC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -19,10 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer27.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer28.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+              <caret line="12" column="13" lean-forward="true" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer25.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer26.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer27.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/other/testGC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer28.java" />
       </list>
     </option>
   </component>
@@ -112,9 +115,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-178" />
-    <option name="y" value="171" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-127" />
+    <option name="y" value="168" />
     <option name="width" value="1940" />
     <option name="height" value="1045" />
   </component>
@@ -203,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer27">
+  <component name="RunManager" selected="Application.Offer28">
     <configuration name="Offer23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.Offer23" />
       <module name="demo" />
@@ -256,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Queen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.other.Queen" />
+    <configuration name="Offer28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Offer28" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.other.*" />
+          <option name="PATTERN" value="com.offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer28" />
         <item itemvalue="Application.Offer27" />
         <item itemvalue="Application.Offer26" />
         <item itemvalue="Application.Offer24" />
         <item itemvalue="Application.Offer23" />
-        <item itemvalue="Application.Queen" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +330,8 @@
       <workItem from="1568946861178" duration="4672000" />
       <workItem from="1569031823507" duration="3469000" />
       <workItem from="1569203825846" duration="5001000" />
-      <workItem from="1569222462787" duration="609000" />
+      <workItem from="1569222462787" duration="1978000" />
+      <workItem from="1569285152697" duration="1376000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -448,17 +452,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569034796339</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="剑指offer部分">
+      <created>1569234301435</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569234301435</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117573000" />
+    <option name="totallyTimeSpent" value="120318000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="243" y="71" width="1552" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24798928" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.251004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -467,7 +478,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32767403" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.3045326" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.30397728" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -895,10 +906,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/other/testGC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer27.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer28.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="12" column="55" lean-forward="true" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="13" lean-forward="true" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
