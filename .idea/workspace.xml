@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/other/testGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -19,11 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer28.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="13" lean-forward="true" selection-end-line="30" />
+            <state relative-caret-position="120">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer29.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer27.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/other/testGC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer28.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer29.java" />
       </list>
     </option>
   </component>
@@ -116,10 +128,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-127" />
-    <option name="y" value="168" />
+    <option name="x" value="82" />
+    <option name="y" value="28" />
     <option name="width" value="1940" />
-    <option name="height" value="1045" />
+    <option name="height" value="1018" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -129,6 +141,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,7 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -206,20 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer28">
-    <configuration name="Offer23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.Offer23" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Offer29">
     <configuration name="Offer24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.Offer24" />
       <module name="demo" />
@@ -272,13 +271,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Offer29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Offer29" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer29" />
         <item itemvalue="Application.Offer28" />
         <item itemvalue="Application.Offer27" />
         <item itemvalue="Application.Offer26" />
         <item itemvalue="Application.Offer24" />
-        <item itemvalue="Application.Offer23" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +343,8 @@
       <workItem from="1569031823507" duration="3469000" />
       <workItem from="1569203825846" duration="5001000" />
       <workItem from="1569222462787" duration="1978000" />
-      <workItem from="1569285152697" duration="1376000" />
+      <workItem from="1569285152697" duration="1540000" />
+      <workItem from="1569290910991" duration="1886000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -459,17 +472,24 @@
       <option name="project" value="LOCAL" />
       <updated>1569234301435</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="剑指offer部分">
+      <created>1569286668194</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569286668194</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120318000" />
+    <option name="totallyTimeSpent" value="122368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="243" y="71" width="1552" height="836" extended-state="0" />
+    <frame x="66" y="23" width="1552" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.251004" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25435072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,7 +498,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32767403" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.30397728" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.313783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -560,16 +580,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/learnjava/patOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learnjava/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
@@ -925,8 +935,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer28.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="13" lean-forward="true" selection-end-line="30" />
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
