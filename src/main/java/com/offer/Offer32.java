@@ -14,10 +14,10 @@ public class Offer32 {
         }
         StringBuffer res=new StringBuffer();
         String[] str=new String[len];
-        for(int i=0;i<len;i++){
+        for(int i=0;i<len;i++){//改成字符串数组
             str[i]=String.valueOf(numbers[i]);
         }
-        Arrays.sort(str, new Comparator<String>() {
+        Arrays.sort(str, new Comparator<String>() {//重写比较方法
             @Override
             public int compare(String o1, String o2) {//ab>ba,a>b
                 String c1=o1+o2;//ab<ba,a<b
