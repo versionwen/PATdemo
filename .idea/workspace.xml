@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer42.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -36,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer42.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state relative-caret-position="90">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -136,9 +134,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="388" />
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="225" />
+    <option name="y" value="-23" />
     <option name="width" value="1525" />
     <option name="height" value="1020" />
   </component>
@@ -367,7 +365,7 @@
       <workItem from="1582190499055" duration="1916000" />
       <workItem from="1582269405634" duration="598000" />
       <workItem from="1582373916070" duration="5953000" />
-      <workItem from="1582634249086" duration="6988000" />
+      <workItem from="1582634249086" duration="7322000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -544,11 +542,18 @@
       <option name="project" value="LOCAL" />
       <updated>1582382015611</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="剑指offer部分">
+      <created>1582641547943</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1582641547943</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158250000" />
+    <option name="totallyTimeSpent" value="158584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,10 +565,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="311" y="43" width="1220" height="816" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26247847" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -572,7 +577,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32767403" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.29093567" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49970537" visible="true" weight="0.28186968" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -835,8 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer42.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="90">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
         </state>
       </provider>
     </entry>
