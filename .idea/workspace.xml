@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer46.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/offer/Offer35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer35" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,11 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer45.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="240">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer46.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -62,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/other/outofmemory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Nine.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/other/Poj1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/other/POJ1852.java" />
@@ -113,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer43.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer44.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer45.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer46.java" />
       </list>
     </option>
   </component>
@@ -148,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -195,7 +204,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,20 +233,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer45">
-    <configuration name="Offer42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.Offer42" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Offer46">
     <configuration name="Offer43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.Offer43" />
       <module name="demo" />
@@ -278,6 +273,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Offer46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Offer46" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.test10" />
       <module name="demo" />
@@ -293,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer46" />
         <item itemvalue="Application.Offer45" />
         <item itemvalue="Application.Offer44" />
         <item itemvalue="Application.Offer43" />
         <item itemvalue="Application.test10" />
-        <item itemvalue="Application.Offer42" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +379,8 @@
       <workItem from="1583414045644" duration="4009000" />
       <workItem from="1583741270596" duration="646000" />
       <workItem from="1583829883412" duration="5000" />
-      <workItem from="1584021000194" duration="5242000" />
+      <workItem from="1584021000194" duration="5433000" />
+      <workItem from="1584361957517" duration="5746000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -576,11 +585,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584022705930</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="剑指offer部分">
+      <created>1584027075241</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1584027075241</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169897000" />
+    <option name="totallyTimeSpent" value="175834000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,10 +608,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22184986" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -718,7 +734,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/other/friday" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/other/Queen.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/other/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/other/outofmemory.java" />
@@ -895,8 +910,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer45.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
