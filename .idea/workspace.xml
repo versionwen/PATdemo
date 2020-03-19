@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDconfirm/IDconfirm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDconfirm/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDconfirm/src/main/java/IDread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer47.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/IDconfirm/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +47,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer46.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer47.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,9 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/offer/Nine.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/other/Poj1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/other/POJ1852.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Ten.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/offer11.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer14.java" />
@@ -121,6 +147,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer44.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer45.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer46.java" />
+        <option value="$PROJECT_DIR$/IDconfirm/pom.xml" />
+        <option value="$PROJECT_DIR$/IDconfirm/src/main/java/IDread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer47.java" />
       </list>
     </option>
   </component>
@@ -156,8 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +231,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer46">
+  <component name="RunManager" selected="Application.Offer47">
     <configuration name="Offer43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.Offer43" />
       <module name="demo" />
@@ -286,8 +315,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.test10" />
+    <configuration name="Offer47" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Offer47" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -301,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer47" />
         <item itemvalue="Application.Offer46" />
         <item itemvalue="Application.Offer45" />
         <item itemvalue="Application.Offer44" />
         <item itemvalue="Application.Offer43" />
-        <item itemvalue="Application.test10" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +409,9 @@
       <workItem from="1583741270596" duration="646000" />
       <workItem from="1583829883412" duration="5000" />
       <workItem from="1584021000194" duration="5433000" />
-      <workItem from="1584361957517" duration="5746000" />
+      <workItem from="1584361957517" duration="5773000" />
+      <workItem from="1584500043814" duration="912000" />
+      <workItem from="1584627754482" duration="3824000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -592,11 +623,18 @@
       <option name="project" value="LOCAL" />
       <updated>1584027075241</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="剑指offer部分">
+      <created>1584374888892</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1584374888892</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175834000" />
+    <option name="totallyTimeSpent" value="180597000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,7 +649,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22453083" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -734,9 +772,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/other/Queen.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/other/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/other/outofmemory.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/other/CheckNumber.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer14.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/offer11.java" />
@@ -805,13 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -915,10 +943,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/IDconfirm/src/main/java/IDread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IDconfirm/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer46.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer47.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
