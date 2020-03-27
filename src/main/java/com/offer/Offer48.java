@@ -12,18 +12,18 @@ import java.util.Stack;
  */
 public class Offer48 {
     public ListNode ReverseList(ListNode head) {
-       ListNode res=null,temp=head,res2=null;
-       Stack<ListNode>out=new Stack<>();
-       while (temp!=null){
-          out.push(temp);
-          temp=temp.next;
+       if(head==null||head.next==null){
+           return head;
        }
-       while(!out.isEmpty()){
-           res=out.pop();
-           if(!out.isEmpty()){
-               res.next=out.pop();
-           }
+       ListNode pre=null;
+       ListNode next=null;
+       while (head!=null){
+           next=head.next;
+           head.next=pre;
+           pre=head;
+           head=next;
        }
+       return pre;
     }
 
     public static void main(String[] args) {
