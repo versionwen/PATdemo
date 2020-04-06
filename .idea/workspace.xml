@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0df85ce-44ac-4e9c-aa63-6491c8d5afe7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/offer/Offer52.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -61,17 +61,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer50.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="780">
               <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer51.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+            <state relative-caret-position="295">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer52.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -103,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer47.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
+            <state relative-caret-position="1380">
               <caret line="46" column="23" selection-start-line="38" selection-start-column="7" selection-end-line="46" selection-end-column="23" />
             </state>
           </provider>
@@ -131,7 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer16.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer17.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/sad.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Five.java" />
@@ -182,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/learnjava/array.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer50.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer51.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/offer/Offer52.java" />
       </list>
     </option>
   </component>
@@ -204,10 +216,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="245" />
-    <option name="y" value="72" />
-    <option name="width" value="1525" />
-    <option name="height" value="1049" />
+    <option name="x" value="503" />
+    <option name="y" value="115" />
+    <option name="width" value="1609" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,7 +229,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -264,6 +275,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -272,7 +284,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -294,20 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Offer51">
-    <configuration name="Offer48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.offer.Offer48" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.offer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Offer52">
     <configuration name="Offer49" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.offer.Offer49" />
       <module name="demo" />
@@ -347,6 +349,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Offer52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.offer.Offer52" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.learnjava.array" />
       <module name="demo" />
@@ -362,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Offer52" />
         <item itemvalue="Application.Offer51" />
         <item itemvalue="Application.Offer50" />
         <item itemvalue="Application.array" />
         <item itemvalue="Application.Offer49" />
-        <item itemvalue="Application.Offer48" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +471,8 @@
       <workItem from="1585380007886" duration="61000" />
       <workItem from="1585579445752" duration="2957000" />
       <workItem from="1585664086280" duration="3333000" />
-      <workItem from="1586091183959" duration="4023000" />
+      <workItem from="1586091183959" duration="4983000" />
+      <workItem from="1586177202802" duration="3876000" />
     </task>
     <task id="LOCAL-00001" summary="第一题完成">
       <created>1558080668512</created>
@@ -703,11 +719,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585667548521</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="剑指offer部分">
+      <created>1586095456587</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1586095456587</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211049000" />
+    <option name="totallyTimeSpent" value="215885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -722,7 +745,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21514745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21782842" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -741,7 +764,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.39943343" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.44334278" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.29886687" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -845,7 +868,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer21.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer20.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer23.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer24.java" />
@@ -1044,6 +1066,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer50.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learnjava/array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1061,29 +1090,105 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer50.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer47.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
+        <state relative-caret-position="1380">
           <caret line="46" column="23" selection-start-line="38" selection-start-column="7" selection-end-line="46" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer51.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        <state relative-caret-position="295">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/offer/Offer52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
