@@ -10,8 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="demo" target="1.7" />
-      <module name="IDconfirm" target="1.7" />
+      <module name="demo" target="8" />
+      <module name="IDconfirm" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

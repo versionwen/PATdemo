@@ -2,11 +2,6 @@ package com.offer;
 
 import java.util.ArrayList;
 
-/**
- * @author version
- * @version 1.0
- * @date 2020/5/2 21:18
- */
 /*
 输入一颗二叉树的根节点和一个整数，
 打印出二叉树中结点值的和为输入整数的所有路径。
